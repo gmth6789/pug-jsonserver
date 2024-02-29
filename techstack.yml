@@ -1,0 +1,71 @@
+repo_name: gmth6789/pug-jsonserver
+report_id: 277d78fcb1350a9b699c143a42fb4330
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:07:26+00:00'
+requested_by: gmth6789
+provider: github
+branch: main
+detected_tools_count: 5
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/gmth6789/pug-jsonserver
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gmth6789/pug-jsonserver
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/gmth6789/pug-jsonserver/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: gmth6789
+  last_updated_on: 2023-10-03 22:01:46.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 0.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/gmth6789/pug-jsonserver/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: gmth6789
+  last_updated_on: 2023-10-03 22:01:46.000000000 Z
+- name: json-server
+  description: Serves JSON files through REST routes
+  package_url: https://www.npmjs.com/json-server
+  version: 0.16.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17570/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/gmth6789/pug-jsonserver/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: gmth6789
+  last_updated_on: 2023-10-03 22:01:46.000000000 Z
